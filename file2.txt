@@ -1,0 +1,1 @@
+The git add . is used to make all code file into one so that. there will be no need to add on by one with file name included
